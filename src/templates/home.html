@@ -5,4 +5,9 @@
 {% block content %}
     <p>Is there anybody out there?</p>
     {% include "snippets/welcome-user-msg.html" %}
+    Page Visits : {{ page_visit_count }}
+    <br>
+    Total Page Visits: {{ total_visit_count }}
+    <br>
+    Percent: {{ percent }}
 {% endblock content %}
