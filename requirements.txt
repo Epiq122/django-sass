@@ -8,4 +8,4 @@ pathspec~=0.12.1
 click~=8.1.7
 asgiref~=3.8.1
 sqlparse~=0.5.1
-python-decouple
+python-decouple~=3.8
