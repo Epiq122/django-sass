@@ -1,5 +1,6 @@
-Django
+Django>=5.0,<5.1
 gunicorn
+python-decouple
 pip
 black
 platformdirs
@@ -8,4 +9,4 @@ pathspec
 click
 asgiref
 sqlparse
-python-decouple
+
